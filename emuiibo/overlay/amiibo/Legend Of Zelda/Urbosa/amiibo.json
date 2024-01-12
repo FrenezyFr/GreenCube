@@ -1,0 +1,35 @@
+{
+  "name": "Urbosa",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 1537,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 9,
+    "model_number": 857
+  },
+  "uuid": [
+    117,
+    253,
+    216,
+    58,
+    5,
+    177,
+    245,
+    0,
+    0,
+    0
+  ]
+}

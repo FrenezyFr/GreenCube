@@ -1,0 +1,35 @@
+{
+  "name": "Midna & Wolf Link",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 769,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 9,
+    "model_number": 591
+  },
+  "uuid": [
+    176,
+    216,
+    47,
+    41,
+    54,
+    99,
+    23,
+    0,
+    0,
+    0
+  ]
+}
