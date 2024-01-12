@@ -1,0 +1,35 @@
+{
+  "name": "Barioth and Ayuria",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 821,
+    "character_variant": 1,
+    "figure_type": 0,
+    "series": 15,
+    "model_number": 741
+  },
+  "uuid": [
+    227,
+    211,
+    3,
+    66,
+    49,
+    207,
+    5,
+    0,
+    0,
+    0
+  ]
+}

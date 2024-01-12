@@ -1,0 +1,35 @@
+{
+  "name": "One-Eyed Rathalos and Rider (Female)",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 53,
+    "character_variant": 2,
+    "figure_type": 0,
+    "series": 15,
+    "model_number": 738
+  },
+  "uuid": [
+    130,
+    81,
+    168,
+    146,
+    114,
+    102,
+    251,
+    0,
+    0,
+    0
+  ]
+}
