@@ -1,0 +1,3 @@
+- Primary DNS: 163.172.141.219
+
+- Secondary DNS: 207.246.121.77
