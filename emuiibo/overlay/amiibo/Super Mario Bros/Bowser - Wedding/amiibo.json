@@ -1,0 +1,35 @@
+{
+  "name": "Bowser - Wedding",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 1280,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 1,
+    "model_number": 883
+  },
+  "uuid": [
+    0,
+    49,
+    70,
+    170,
+    69,
+    178,
+    132,
+    0,
+    0,
+    0
+  ]
+}
