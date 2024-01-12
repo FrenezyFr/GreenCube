@@ -1,0 +1,35 @@
+{
+  "name": "Plague Knight",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 49461,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 10,
+    "model_number": 876
+  },
+  "uuid": [
+    47,
+    0,
+    87,
+    201,
+    121,
+    210,
+    47,
+    0,
+    0,
+    0
+  ]
+}

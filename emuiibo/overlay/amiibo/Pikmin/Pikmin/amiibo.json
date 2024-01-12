@@ -1,0 +1,35 @@
+{
+  "name": "Pikmin",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 16902,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 17,
+    "model_number": 863
+  },
+  "uuid": [
+    91,
+    77,
+    80,
+    137,
+    114,
+    20,
+    129,
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Solaire of Astora",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 32819,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 20,
+    "model_number": 888
+  },
+  "uuid": [
+    236,
+    143,
+    21,
+    98,
+    177,
+    130,
+    13,
+    0,
+    0,
+    0
+  ]
+}

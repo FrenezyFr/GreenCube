@@ -1,0 +1,35 @@
+{
+  "name": "Ikari",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 312,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 23,
+    "model_number": 916
+  },
+  "uuid": [
+    90,
+    197,
+    62,
+    224,
+    129,
+    146,
+    156,
+    0,
+    0,
+    0
+  ]
+}

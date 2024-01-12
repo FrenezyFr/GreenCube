@@ -1,0 +1,35 @@
+{
+  "name": "Hayakawa",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 824,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 23,
+    "model_number": 918
+  },
+  "uuid": [
+    255,
+    150,
+    157,
+    118,
+    57,
+    240,
+    166,
+    0,
+    0,
+    0
+  ]
+}
