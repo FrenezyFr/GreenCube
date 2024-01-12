@@ -1,0 +1,35 @@
+{
+  "name": "Light Blue Yarn Yoshi",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 768,
+    "character_variant": 1,
+    "figure_type": 2,
+    "series": 3,
+    "model_number": 67
+  },
+  "uuid": [
+    9,
+    51,
+    196,
+    24,
+    15,
+    49,
+    217,
+    0,
+    0,
+    0
+  ]
+}
