@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Do not override",
+        "label": "Do not override",
+        "hex": "000000"
+    },
+    {
+        "name": "1100 mV",
+        "label": "1100 mV - default",
+        "hex": "E0C810"
+    },
+    {
+        "name": "1125 mV",
+        "label": "1125 mV",
+        "hex": "882A11"
+    },
+    {
+        "name": "1150 mV",
+        "label": "1150 mV",
+        "hex": "308C11"
+    },
+    {
+        "name": "1175 mV",
+        "label": "1175 mV",
+        "hex": "D8ED11"
+    },
+    {
+        "name": "1200 mV",
+        "label": "1200 mV",
+        "hex": "804F12"
+    }
+]

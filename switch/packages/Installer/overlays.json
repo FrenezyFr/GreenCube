@@ -1,0 +1,92 @@
+[
+    {
+        "name": "EdiZon",
+        "zip-url": "https://api.github.com/repos/proferabg/EdiZon-Overlay/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "FPSLocker",
+        "ovl-url": "https://api.github.com/repos/masagrator/FPSLocker/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "nx-ovlloader",
+        "zip-url": "https://api.github.com/repos/WerWolv/nx-ovlloader/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "QuickNTP",
+        "ovl-url": "https://api.github.com/repos/nedex/QuickNTP/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "SaltyNX",
+        "zip-url": "https://api.github.com/repos/masagrator/SaltyNX/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "Status Monitor",
+        "zip-url": "https://api.github.com/repos/masagrator/Status-Monitor-Overlay/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "Switch-OC-Suite",
+        "zip-url": "https://api.github.com/repos/hanai3Bi/Switch-OC-Suite/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "3"
+    },
+    {
+        "name": "SysDVR",
+        "zip-url": "https://api.github.com/repos/exelix11/SysDVR/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "7"
+    },
+    {
+        "name": "SysDVR Overlay",
+        "zip-url": "https://api.github.com/repos/Hartie95/sysdvr-overlay/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "Sys-modules",
+        "ovl-url": "https://api.github.com/repos/WerWolv/ovl-sysmodules/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "sys-patch",
+        "zip-url": "https://api.github.com/repos/ITotalJustice/sys-patch/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "Ultrahand",
+        "ovl-url": "https://api.github.com/repos/ppkantorski/Ultrahand-Overlay/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "1"
+    },
+    {
+        "name": "DNS-MITM_Manager",
+        "zip-url": "https://api.github.com/repos/znxDomain/DNS-MITM_Manager/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "emuiibo",
+        "zip-url": "https://api.github.com/repos/XorTroll/emuiibo/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "MasterVolume",
+        "ovl-url": "https://api.github.com/repos/averne/MasterVolume/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "ReverseNX-RT",
+        "ovl-url": "https://api.github.com/repos/masagrator/ReverseNX-RT/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "studious-pancake",
+        "zip-url": "https://api.github.com/repos/HookedBehemoth/studious-pancake/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    },
+    {
+        "name": "sys-tune",
+        "zip-url": "https://api.github.com/repos/HookedBehemoth/sys-tune/releases?per_page=1&sort=created&order=desc",
+        "download-entry": "0"
+    }
+]

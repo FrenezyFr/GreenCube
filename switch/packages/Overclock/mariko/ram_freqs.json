@@ -1,0 +1,92 @@
+[
+    {
+        "name": "1996 MHz",
+        "label": "1996 MHz",
+        "hex": "00781E",
+        "rhex": "1E7800"
+    },
+    {
+        "name": "2131 MHz",
+        "label": "2131 MHz",
+        "hex": "008520",
+        "rhex": "208500"
+    },
+    {
+        "name": "2252 MHz",
+        "label": "2252 MHz",
+        "hex": "006022",
+        "rhex": "226000"
+    },
+    {
+        "name": "2323 MHz",
+        "label": "2323 MHz",
+        "hex": "007323",
+        "rhex": "237300"
+    },
+    {
+        "name": "2342 MHz",
+        "label": "2342 MHz",
+        "hex": "00BE23",
+        "rhex": "23BE00"
+    },
+    {
+        "name": "2361 MHz",
+        "label": "2361 MHz",
+        "hex": "000924",
+        "rhex": "240900"
+    },
+    {
+        "name": "2380 MHz",
+        "label": "2380 MHz",
+        "hex": "005424",
+        "rhex": "245400"
+    },
+    {
+        "name": "2400 MHz",
+        "label": "2400 MHz",
+        "hex": "009F24",
+        "rhex": "249F00"
+    },
+    {
+        "name": "2419 MHz",
+        "label": "2419 MHz",
+        "hex": "00EA24",
+        "rhex": "24EA00"
+    },
+    {
+        "name": "2438 MHz",
+        "label": "2438 MHz",
+        "hex": "003525",
+        "rhex": "253500"
+    },
+    {
+        "name": "2457 MHz",
+        "label": "2457 MHz",
+        "hex": "008025",
+        "rhex": "258000"
+    },
+    {
+        "name": "2476 MHz",
+        "label": "2476 MHz",
+        "hex": "00CB25",
+        "rhex": "25CB00"
+    },
+    {
+        "name": "2502 MHz",
+        "label": "2502 MHz",
+        "hex": "002F26",
+        "rhex": "262F00"
+    },
+    {
+        "name": "2515 MHz",
+        "label": "2515 MHz",
+        "hex": "006126",
+        "rhex": "266100"
+    },
+    {
+        "name": "2534 MHz",
+        "label": "2534 MHz",
+        "hex": "00AC26",
+        "rhex": "26AC00"
+    }
+]
