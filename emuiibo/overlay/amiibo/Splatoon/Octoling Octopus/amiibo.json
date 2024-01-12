@@ -1,0 +1,35 @@
+{
+  "name": "Octoling Octopus",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 1288,
+    "character_variant": 3,
+    "figure_type": 0,
+    "series": 4,
+    "model_number": 912
+  },
+  "uuid": [
+    228,
+    129,
+    73,
+    250,
+    209,
+    195,
+    57,
+    0,
+    0,
+    0
+  ]
+}

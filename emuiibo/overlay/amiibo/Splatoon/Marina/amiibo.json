@@ -1,0 +1,35 @@
+{
+  "name": "Marina",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 1032,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 4,
+    "model_number": 887
+  },
+  "uuid": [
+    200,
+    246,
+    223,
+    219,
+    239,
+    177,
+    90,
+    0,
+    0,
+    0
+  ]
+}

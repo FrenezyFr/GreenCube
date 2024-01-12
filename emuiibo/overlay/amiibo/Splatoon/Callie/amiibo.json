@@ -1,0 +1,35 @@
+{
+  "name": "Callie",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "last_write_date": {
+    "y": 2020,
+    "m": 4,
+    "d": 16
+  },
+  "id": {
+    "game_character_id": 264,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 4,
+    "model_number": 605
+  },
+  "uuid": [
+    50,
+    169,
+    135,
+    202,
+    144,
+    198,
+    157,
+    0,
+    0,
+    0
+  ]
+}
